@@ -1,9 +1,9 @@
 ## Project Name
-Dermat
+Dermat : A model that diagnoses skin diseases and detects cancerous skin diseases.
 
 
 ## Domain
-MAchine Learning.
+Machine Learning.
 
 
 ## Link to your repository
