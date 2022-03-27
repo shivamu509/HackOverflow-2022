@@ -1,7 +1,6 @@
 ## Project Name
 
 
-
 ## Domain
 
 
@@ -9,13 +8,13 @@
 ## Link to your repository
 
 
-
 ## About Project
 
 
 
 
-### Abstract
+
+
 
 
 **Tech stack**:
@@ -29,5 +28,4 @@
 
 
 ## References
-
 
