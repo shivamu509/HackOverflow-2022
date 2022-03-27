@@ -1,14 +1,13 @@
 # TEAM NAME - ENTITY-X
-------------------------------------------------------------------------
 # DOMAIN - WEB DEVELOPEMENT
-------------------------------------------------------------------------
+
 ABOUT THE PROJECT - 
 THE CRAFTMENSHIP OF THE VILLAGES ARE LESS POPULAR AND THE HUMAN RESOURCE IS LESS USED BECAUSE OF IT. THERE IS A NEED OF AN INTEGRATED PORTAL WHICH PROMOTES
 THE TOURISM  OF THE VILLAGE 
 GOODS AND SERVICES OF THE VILLAGES
 CREATE EMPLOYEMENT OPPORTUNITIES 
 ----------------------------------------------------------------------------------
-
+git repo:-https://github.com/DIKSHYA2002/hackoverflow2.git
 # TECH STACK - 
 FRONT END - HTML ,CSS, JAVASCRIPT 
 BACKEND - NODE JS 
