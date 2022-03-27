@@ -5,9 +5,10 @@
 ## Use cases of your Project - frontend : html,css,js
                                backend : php
                                database :sql
-## Team Memebers - Subhashree Behera
+## Team Memebers 
+                   Subhashree Behera
                    Pratyusha Priyadarshini
                    Aditi Satpathy
 
-## References - https://stackoverflow.com/
-                https://www.w3schools.com/
+## References - https://stackoverflow.com/  https://www.w3schools.com/
+                
