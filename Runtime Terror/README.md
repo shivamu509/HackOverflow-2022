@@ -7,7 +7,7 @@ Student innovation
 
 
 ## Link to your repository
-https://github.com/1amaks/blog.in.git
+https://github.com/1amaks/blog.in
 
 
 ## About Project
