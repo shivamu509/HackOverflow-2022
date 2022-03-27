@@ -20,3 +20,7 @@ to industry standards.
 - Network with like minded people👨🏾‍💻🧑🏼‍💻👩🏻‍💻
 - Brainstorm ideas and learn new technologies 🤝🏼
 - Rewards and Cash Prizes worth 22k for winners!!!🎁💰
+
+**INSTRUCTIONS**
+1. Fork this repository in to your local machine
+2. Follow
