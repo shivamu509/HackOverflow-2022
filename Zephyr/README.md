@@ -1,5 +1,5 @@
 ## Project Name
-Dermat : A model that diagnoses skin problems and detects cancerous skin diseases.
+DerML : A model that diagnoses skin problems and detects cancerous skin diseases.
 
 
 ## Domain
