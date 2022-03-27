@@ -21,6 +21,7 @@ to industry standards.
 - Brainstorm ideas and learn new technologies 🤝🏼
 - Rewards and Cash Prizes worth 22k for winners!!!🎁💰
 
-**INSTRUCTIONS**
-1. Fork this repository in to your local machine
-2. Follow
+Follow the Github Guidilines mentioned in the doc below:
+
+[GitHub Rules ASCI.docx](https://github.com/SWITCH-CLUB/HackOverflow-2022/files/8356796/GitHub.Rules.ASCI.docx)
+
