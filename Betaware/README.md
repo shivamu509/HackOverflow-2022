@@ -36,7 +36,7 @@ Solution : Our solution includes building a web portal for providing the farmers
 ## Team Members
 1. Suraj Kumar Sharma
 2. [Shweta Jha](https://github.com/SHWETA2JHA)
-3. Suryanshu Bedi
+3. [Suryanshu Bedi](https://github.com/suryanshu2001)
 3. [Debanwita Mahato](https://github.com/debanwita27)
 
 ## References
